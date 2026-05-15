@@ -22,8 +22,8 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const gold = "#C6A15B";
 const olive = "#7B8070";
-const logo = "/mnt/data/Menendez Logo Secondry Gold.png";
-const ceoImage = "/mnt/data/Menendez (1350 x 1350 px) (23)(1).avif";
+const logo = "/images/menendez-logo-gold.png";
+const ceoImage = "/images/silvia-garcia.avif";
 
 const pages = ["Home", "About", "Buyers", "Sellers", "Listings", "Testimonials", "Contact"];
 
